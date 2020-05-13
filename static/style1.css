@@ -5,7 +5,9 @@ html, body
 }
 h1{
   text-align: center;
-  color: maroon;
+  font-size: 20px;
+  font-family: comic sans;
+  color: coral;
   margin: 30px 0 50px;
 }
 
